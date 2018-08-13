@@ -51,6 +51,14 @@ module.exports = {
             }
           },
           {
+            resolve: `gatsby-source-youtube`,
+            options: {
+              channelId: '<<Youtube channelID eg. UCK8sQmJBp8GCxrOtXWBpyEA >>',
+              apiKey: '<< Add your Youtube api key here>>',
+              maxVideos: 100 // Defaults to 50
+            },
+           },
+          {
             resolve: "gatsby-remark-responsive-iframe"
           },
           "gatsby-remark-prismjs",
