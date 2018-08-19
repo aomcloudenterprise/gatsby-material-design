@@ -11,7 +11,7 @@ module.exports = {
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   siteGATrackingID: "UA-115066134-2", // Tracking code ID for google analytics.
   disqusShortname: "https-aomcloudenterprise/gatsby-material-starter", // Disqus shortname.
-  postDefaultCategoryID: "Narketing", // Default category for posts.
+  postDefaultCategoryID: "Online Marketing" // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "danklut", // Username to display in the author segment.
