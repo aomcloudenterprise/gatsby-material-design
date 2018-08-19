@@ -3,14 +3,14 @@ module.exports = {
   siteTitleShort: "GM Starter", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "GatsbyJS Material Starter", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
-  siteUrl: "https://aomcloudenterprise.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "https://github.com/aomcloudenterprise/gatsby-material-starter," // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-material-starter", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A GatsbyJS stater with Material design in mind.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   siteGATrackingID: "UA-115066134-2", // Tracking code ID for google analytics.
-  disqusShortname: "https-aomcloudenterprise-github-io-gatsby-material-starter", // Disqus shortname.
+  disqusShortname: "https-aomcloudenterprise/gatsby-material-starter", // Disqus shortname.
   postDefaultCategoryID: "Narketing", // Default category for posts.
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
