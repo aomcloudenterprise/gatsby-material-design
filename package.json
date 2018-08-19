@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-material-starter,
-  "description": "GatsbyJS Material Blog theme.",
+  "name": "gatsby-material-starter",
+  "description": "GatsbyJS Material Blog theme",
   "version": "1.1.0",
   "author": "danklut <aomcloudenterprise@outlook.com>",
   "dependencies": {
